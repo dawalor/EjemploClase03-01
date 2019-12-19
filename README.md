@@ -1,6 +1,6 @@
 # Crear alias en Git
 Se utilizan para comandos largos que utilices a diario.
-Modificacion rama testing
+Modificacion desde rama master
 
 ###### git config --global alias.name-del-alias "comandos a ejecutar"
 ### git config --global alias.lg "log --oneline --decorate"
